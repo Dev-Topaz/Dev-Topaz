@@ -13,7 +13,6 @@
 - ⚡️ Currently contributing to multiple freelance projects.
 - 👨‍💻 Really enjoy collaborating on `open source` projects.
 - ✈️ Fun Fact: Love to travel.
-- 📫 How to reach me: Discord: supernftier#5786
 ### Frequently Used Languages and Tools 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
