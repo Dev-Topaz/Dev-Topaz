@@ -8,7 +8,7 @@
 </p>
 
 <p>
-Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
+Energetic software engineer and innovative optimized solution seeker with 5+ years experience developing robust code for high- volume businesses with a strong focus on blockchain development.
 </p>
 
 ### About Me
@@ -24,14 +24,14 @@ Very focused and polite worker that is capable of handling difficult tasks in a 
   <a href="https://github.com/toshkazima/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=toshkazima&count_private=true&show_icons=true&custom_title=toshkazima's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=topaz&count_private=true&show_icons=true&custom_title=Topaz's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/toshkazima/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshkazima&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=topaz&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
