@@ -8,7 +8,7 @@
 </p>
 
 <p>
-Energetic software engineer and innovative optimized solution seeker with 5+ years experience developing robust code for high- volume businesses with a strong focus on blockchain development.
+Energetic software engineer and innovative optimized solution seeker with 5+ years experience developing robust code for high-volume businesses with a strong focus on blockchain development.
 </p>
 
 ### About Me
