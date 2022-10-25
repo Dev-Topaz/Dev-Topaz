@@ -1,10 +1,10 @@
 <h1 align="center">I am a Senior Full Stack & Blockchain Engineer.</h1>
 
 <p align="center">
-  <a href="https://github.com/toshkazima?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/toshkazima"/></a>
-  <a href="https://github.com/toshkazima?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/toshkazima?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/dev-topaz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dev-topaz"/></a>
+  <a href="https://github.com/dev-topaz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dev-topaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <p>
@@ -21,14 +21,14 @@ Energetic software engineer and innovative optimized solution seeker with 5+ yea
 
 </br>
 <p align="center">
-  <a href="https://github.com/toshkazima/github-readme-stats">
+  <a href="https://github.com/dev-topaz/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=topaz&count_private=true&show_icons=true&custom_title=Topaz's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
 
-  <a href="https://github.com/toshkazima/github-readme-stats">
+  <a href="https://github.com/dev-topaz/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=topaz&layout=compact&theme=vision-friendly-dark" />
